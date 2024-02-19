@@ -5,13 +5,20 @@ form{
 
 
 h1{
-    margin-left: 100px;
-    margin-right: 100px;
+    width: 50%;
+    margin: auto;
+    padding-top: 20px;
+
 }
 
 .form-select{
-    
-    
+    width: auto;
+    margin-left: 5%;
 }
 
+
+.botaoconfirmar{
+    width: auto;
+    margin-left: 4%;
+}
 
