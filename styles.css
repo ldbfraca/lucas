@@ -12,13 +12,13 @@ h1{
 }
 
 .form-select{
-    width: auto;
-    margin-left: 5%;
+    width: 20%;
+    margin-left: 5em;
 }
 
 
 .botaoconfirmar{
     width: auto;
-    margin-left: 4%;
+    margin: center;
 }
 
