@@ -1,3 +1,8 @@
+body{
+    background-color: aqua;
+}
+
+
 form{
     margin: 1px;
     padding: 10px;
@@ -5,20 +10,28 @@ form{
 
 
 h1{
+    background-color: blanchedalmond;
     width: 50%;
     margin: auto;
-    padding-top: 20px;
+    text-align: center;
+    padding-left: 60px;
+    padding-right: 60px;
+    
 
 }
 
 .form-select{
     width: 20%;
-    margin-left: 5em;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: beige;
 }
 
 
 .botaoconfirmar{
-    width: auto;
+    width: 21%;
+    margin-left: auto;
+    margin-right: auto;
     margin: center;
 }
 
